@@ -1,7 +1,8 @@
 
 
-# AWS-Modernization-With-Cprime
+# AWS Modernization Workshop With Cprime
 
-This is AWS-Modernization-With-Cprime
+This is workshop is part of the AWS Modernization Workshop series.
+Working with JIRA 
 
 
