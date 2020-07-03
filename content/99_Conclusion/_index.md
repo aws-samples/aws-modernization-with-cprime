@@ -52,7 +52,7 @@ Hopefully this workshop has shown you how you can leverage Jira to manage the wo
 
 ## Next Steps
 
-Read more on what Jira has to offer: https://www.atlassian.com/software/jira
+Read more on what Jira has to offer: https://www.atlassian.com/partnerships/aws
 
 If you are interested in Agile development:  https://www.cprime.com/
 
