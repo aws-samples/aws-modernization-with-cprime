@@ -8,7 +8,7 @@ weight: 99
 
 Congratulation on completing your first sprint in Jira.  The office manager of Mythical Misfits is quite happy that you were able to successfully make progress in the courtyard improvement.
 
-Recap on What You Have Learned
+### Recap on What You Have Learned
 
 In this workshop, you have learned how to use Jira to manage and collaborate on a project with your team.  Specific capabilities of Jira that you learned include:
 
@@ -30,7 +30,7 @@ In this workshop, you have learned how to use Jira to manage and collaborate on 
 
 - Viewing reports in Jira
 
-## Final Thoughts
+### Final Thoughts
 
 Originally, Jira was designed as a bug and issue tracker. But today, Jira has evolved into a powerful work management tool for all kinds of use cases, from requirements and test case management to agile software development.   Jira is used by teams across the business enterprise, including software, IT, business, and Ops teams.
 
@@ -50,7 +50,7 @@ Jira integrates with dozens of other popular tools to enhance the features and s
 
 Hopefully this workshop has shown you how you can leverage Jira to manage the work of your teams in a collaborative way.   Once you get started with Jira, you’ll start discovering more and more ways to enhance your team collaboration, as well as collaboration with other teams.
 
-## Next Steps
+### Next Steps
 
 Read more on what Jira has to offer: https://www.atlassian.com/partnerships/aws
 

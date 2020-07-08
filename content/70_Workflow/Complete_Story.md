@@ -8,11 +8,11 @@ When all sub-tasks of a story are done, the story itself should be set to the �
 
 Your team has been busy and has managed to complete the story to plant the apple tree.  Let’s move that story to “DONE” status.
 
-On the Active Sprints view, drag both sub-tasks for the **“apple tree”** story to the **“Done”** column.  Jira will display a dialog asking if you want the parent story to also be moved to the “Done” status.
+On the Active Sprints view, drag both sub-tasks for the **“apple tree”** story to the **Done** column.  Jira will display a dialog asking if you want the parent story to also be moved to the “Done” status.
 
 ![Update_parent_issue_dialog](/images/70_Workflow/Update_parent_issue_dialog.png)
 
-Click **“Update”** in the dialog.  You will notice that status badge for the story has been updated to **“DONE”**.
+Click **Update** in the dialog.  You will notice that status badge for the story has been updated to “DONE”.
 
 ![sprint_board_done_story](/images/70_Workflow/Sprint_board_done_story.png)
 

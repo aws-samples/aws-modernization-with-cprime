@@ -24,19 +24,19 @@ On the project backlog view, click on the story in the backlog list to show the 
 
 ![Story_details_link](/images/40_Epics_Stories_And_Tasks/Story_details_link.png)
 
-On the full story details page, click on the **“More”** button, and then select **“Create sub-task”**.
+On the full story details page, click on the **More** button, and then select **Create sub-task**.
 
 ![Story_more_menu](/images/40_Epics_Stories_And_Tasks/Story_more_menu.png)
 
-You will now see the **“Create Subtask”** dialog.  Confirm that the selected issue type is “Sub-task.  Then fill in the relevant information in the form:  
+You will now see the **Create Subtask** dialog.  Confirm that the selected issue type is **“Sub-task"**.  Then fill in the relevant information in the form:  
 
-- **Summary** – Enter the name of the sub-task from the team’s sub-task decomposition above.  
-- **Reporter** – Leave as yourself.  
-- **Description** – Write a short description on what the task entails.  
+- **Summary** – Enter the name of the sub-task from the team’s sub-task decomposition above: _"Remove broken urn from garden"_
+- **Reporter** – Leave as yourself.
+- **Description** – Write a short description on what the task entails.
 
 ![Subtask_dialog](/images/40_Epics_Stories_And_Tasks/Subtask_dialog.png)
 
-Make sure the checkbox **“Create another”** is ticked at the bottom of the dialog.  Click **“Create”** to create the sub-task.  A new empty sub-task dialog will appear with a message that the prior sub-task was created.  Create the second and third sub-tasks for the story.  (Untick **“Create another”** before clicking **“Create”** for the third sub-task.  But if you forget, you can just cancel out of creating a fourth sub-task.)
+Make sure the **Create another** checkbox is ticked at the bottom of the dialog.  Click **Create** to create the sub-task.  A new empty sub-task dialog will appear with a message that the prior sub-task was created.  Create the second and third sub-tasks for the story.  (Untick **Create another** before clicking **Create** for the third sub-task.  But if you forget, you can just cancel out of creating a fourth sub-task.)
 
 You should now see the three subtasks on the story details page.
 

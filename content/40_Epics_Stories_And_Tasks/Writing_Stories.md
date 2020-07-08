@@ -12,10 +12,9 @@ When decomposing an epic into stories, there are some considerations to keep in 
 
 - A good user story needs to be well defined.  How will someone know if the story is fully and properly implemented?  This is what is referred to as the “definition of done” for the story.
 
-- A user story should be able to be completed within a sprint (typically two weeks).  We will discuss estimation in a subsequent module.  
-If a story is too large, then it should be further decomposed into multiple stories.
+- A user story should be able to be completed within a sprint (typically two weeks).  We will discuss estimation in a subsequent module.  If a story is too large, then it should be further decomposed into multiple stories.
 
-A good way to express a user story is to write it as a single sentence that combines the three parts of persona, requirement, and benefit.  A common format is **“As a [persona], I want [requirement], so that [benefit]”**.  We will use this format here.  You can also think of it is as answering who, what, and why for the story.
+A good way to express a user story is to write it as a single sentence that combines the three parts of persona, requirement, and benefit.  A common format is **“As a [persona], I want [requirement], so that [benefit]”**.  You can also think of it is as answering who, what, and why for the story.
 
 ### Decomposing Your First Epic into Stories
 
@@ -29,4 +28,4 @@ At Mythical Misfits, you have gathered your team together to engage in decomposi
 
 - As a garden caretaker, I want the plants to be properly watered, so that the plants will grow healthy.
 
-Let’s create a story in Jira for the first user story.
+Let’s create a story issue in Jira for the first user story.

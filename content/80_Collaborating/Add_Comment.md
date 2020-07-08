@@ -18,15 +18,15 @@ While working on the “gnome” story, Kai finds out that the Old Gnome Home re
 
 Open the “gnome” story details pane.  You can do this from the project backlog view or from the active sprint view by clicking on the story.
 
-Scroll down the details pane to show the Comment section, or click on the “word bubble” icon along the left side of the details pane.
+Scroll down the details pane to show the **Comment** section, or click on the “word bubble” icon along the left side of the details pane.
 
 ![Story_details_comment_section](/images/80_Collaboration/Story_details_comment_section.png)
 
-Click on the **“Comment”** button. This will open a comment editing box in the details pane.
+Click on the **Comment** button. This will open a comment editing box in the details pane.
 
 ![Comment_test_box](/images/80_Collaboration/Comment_text_box.png)
 
-In the comment, we want to specifically call out Quinn to ask Quinn to provide information.  Calling out a specific user in a comment is referred to as an “@mention”, which is a way to draw that person’s attention to the comment.  When you mention a user, they will get a notification.
+In the comment, we want to specifically call out Quinn to ask Quinn to provide information.  Calling out a specific user in a comment is referred to as an **“@mention”**, which is a way to draw that person’s attention to the comment.  When you mention a user, they will get a notification.
 
 In the comment text box, type “@”.  Notice that a suggestion list of users appears below the comment text box.  You can narrow the list by typing the first character of the person’s name after the “@”.
 
@@ -38,7 +38,7 @@ There are numerous of options when adding a comment, such as including an attach
 
 ![Comment_box_content](/images/80_Collaboration/Comment_box_content.png)
 
-click **“Add”** to submit the comment.
+click **Add** to submit the comment.
 
 ![Story_details_comment](/images/80_Collaboration/Story_details_comment.png)
 
