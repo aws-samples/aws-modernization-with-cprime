@@ -6,9 +6,7 @@ weight: 45
 
 Whew!  You’ve done quite a bit so far, but the project backlog is still looking a bit sparse.  
 
-Follow the previous instructions and create the remaining three user stories for the first epic.  (Hint: use the “Create” button at the top of the page.)  Don’t forget to associate the stories to the epic.  
-
-To refresh your memory, here are the remaining three user stories to create.  Add subtasks to a couple of the stories as well.
+Follow the previous instructions and create the remaining three user stories for the first epic.  (Hint: use the “Create” button at the top of the page.)  Don’t forget to associate the stories to the epic.  To refresh your memory, here are the remaining three user stories to create, plus suggested subtasks for a couple of the stories as well.
 
 - As a mythical creature feeder, I want the garden to contain an apple tree, so that our unicorns can enjoy a treat.
   - Fetch apple tree from nursery

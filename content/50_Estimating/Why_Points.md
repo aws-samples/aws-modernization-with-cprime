@@ -21,7 +21,7 @@ With story points, we know that a 5-point story is a bit more than twice as comp
 That answer is… it depends on the team and the nature of the project.  Being at the bottom of the scale, a 1-point story should be relatively simple and easy.  
 
 {{% notice tip %}}
-Tip:  One approach to helping teams determine story points is to use “anchor” or “reference” stories.  See the following link for more information:  TBD
+One approach to helping teams determine story points is to use “anchor” or “reference” stories.  These are previously estimated stories whose complexity level is well agreed upon.  You can then determine if the story to be estimated is more, less, or the same complexity as the reference story.
 {{% /notice %}}  
 
 All that said, different team members will have different perspectives on how complex a story is.  For that, we need a process by which to resolve those differences to come up with a consensus estimate by the team.
