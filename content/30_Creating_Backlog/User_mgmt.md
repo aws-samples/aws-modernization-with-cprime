@@ -1,7 +1,7 @@
 ---
 title: "User Management Page"
 chapter: true
-weight: 13
+weight: 33
 ---
 
 ## User Management Page

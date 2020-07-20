@@ -1,7 +1,7 @@
 ---
 title: "Creating a user"
 chapter: true
-weight: 14
+weight: 34
 ---
 
 ## Creating a User
@@ -15,7 +15,6 @@ This open the **"New User"** Page.
 
 Now let fill the information needed to create our user **"Kai"**
 
-Replace image !
 ![User Management Menu](/images/10_Getting_Started/New_User_Page_filled.png)
 
 Tick the **Create Another** option at the bottom of the page,
@@ -24,5 +23,4 @@ And create another user name **Quinn**
 At the end our "User Management" page should look like this,
 With all the of our Users.
 
-Replace image !
 ![User Management Menu](/images/10_Getting_Started/User_mgmt_with_users.png)
