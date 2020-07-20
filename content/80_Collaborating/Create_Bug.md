@@ -10,11 +10,12 @@ Trimming the bushes is not part of the story, and taking time to properly prune 
 
 {{% notice note %}}
 **Bug versus Defect Subtask**  
+</br>
 When a problem is found during implementation or validation of a story, additional work to remediate the problem is often required.  That remediation can be done either as part of the story or as work done later.  
-If the problem is critical to completion of the story, then a new sub-task should be added to the story.  
-This can be referred to as a “defect subtask” for the story.  
-If the problem is not critical to completion of the story—that is, the story could reasonably be considered completed even in the presence of the found problem—then the remediation should be done later.  
-In this case, a bug is added to the project backlog to be worked on in a future sprint. 
+</br>
+If the problem is critical to completion of the story, then a new sub-task should be added to the story.  This can be referred to as a “defect subtask” for the story.  
+</br>
+If the problem is not critical to completion of the story—that is, the story could reasonably be considered completed even in the presence of the found problem—then the remediation should be done later.  In this case, a bug is added to the project backlog to be worked on in a future sprint. 
 {{% /notice %}}
 
 In the case of bushes obscuring the gnome in your garden, you decide that pruning the bushes is not fundamentally part of placing the gnome in the garden.  As a result, you decide to create a bug for the project backlog.  Let’s do that now.  
