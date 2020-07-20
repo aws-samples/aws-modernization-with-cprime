@@ -4,9 +4,15 @@ chapter: false
 weight: 53
 ---
 
-In this workshop, we’ll simulate your team’s participation so you can estimate all the stories in your project backlog.
+Let's go through a Planning Poker simulation so you get a feel for how the story estimation process works.  You and your team are going to estimate your first user story _"As a garden caretaker, I want our gnome Slevenbirt to be placed in the garden, so that our mythical creatures feel safe in the garden."_
 
-TODO: Walk student through a simulation for first story on backlog, which should be the “gnome” story.  The story points for first story should end up as 3.  
+On the screen below, you should see three "cards", one for each member of your team.  Your card is outlined in red.  Click the **Select Value** to show a list of available story point values.  Pick a value that you think represents the complexity of the first story.  After a few seconds, the votes for your team members will show up.
+
+Were you surprised by the estimate of your team members?  If you all agreed, that is great, and the estimation is done.  But if your votes are different, then you and your team members would discuss why each voted their particular value.
+
+Click the **Reset** button.  This time, choose **3** as your vote.  This time, all your votes should match.
+
+
 
 
 {{<pen>}}
