@@ -7,9 +7,7 @@ weight: 11
 
 ### Logging into AWS Event Engine
 
-To complete this workshop, you are provided with an AWS account via the AWS Event Engine service. A 12-digit hash will be provided to you by event staff - this is your unique access code.
-eg:
-## `null`
+To complete this workshop, you are provided with an AWS account via the AWS Event Engine service. A 12-digit hash will be provided to you by event staff.
 
 
 1. Go to https://dashboard.eventengine.run to log into AWS Event Engine.
@@ -50,7 +48,7 @@ On the Left hand side, scroll down until you see the **LOAD BALANCING** section 
 
 Select the Load Balancer , and copy the **DNS Name**, This is our Jira Server address.
 
-![left_menu_lb](/images/10_Getting_Started/Inkedlb_list_LI.jpg)
+![Inkedlb_list_LI](/images/10_Getting_Started/Inkedlb_list_LI.jpg)
 
 Input this address to your web browser to access Jira.
 
@@ -63,11 +61,11 @@ In the "Setup application properties" page the we see,
 Leave the values as is, and click **Next** .
 
 In the "Specify your license key" page we need to input a trial license.
-Click the **Generate a Jira Trial License** link, and follow the instruction on getting a license number.
+Input the Trial License given to you by the staff.
 
 ![jira_server_init_2](/images/10_Getting_Started/jira_server_init_2.png)
 
-When you have one, copy it back into the page, and click **Next**.
+Then click **Next**.
 
 In the "Setup An Administrator Account" page we setup our main user.  
 For our workshop, lets create a user named **Jordan**, 
@@ -85,7 +83,3 @@ In the "Set up email notifications" page, choose **Later**, and then choose **Fi
 In the first "Welcome to Jira" page, choose a language and then choose **Continue**.  
 In the second "Welcome to Jira" page, choose an avatar for your profile, if you wish,
 and then choose **Next**.
-
-{{% notice note %}}
-Click [here]({{< ref "3_user_mgmt.md" >}}) To continue to user creation.
-{{% /notice %}}

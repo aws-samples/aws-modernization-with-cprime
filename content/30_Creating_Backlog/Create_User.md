@@ -1,7 +1,7 @@
 ---
 title: "Creating a user"
 chapter: true
-weight: 14
+weight: 34
 ---
 
 ## Creating a User
