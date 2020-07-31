@@ -14,7 +14,7 @@ Your account must have the ability to create new IAM roles and scope other IAM p
 
 {{% notice note %}}
 If you already have an AWS account, and have IAM Administrator access, go to
-[Provision VPC & Cloud9]({{< ref "#provision-vpc-and-cloud9" >}})
+[Provision Jira Instance]({{< ref "#provision-jira-instance" >}})
 {{% /notice %}}
 
 ### Create an account
@@ -41,8 +41,14 @@ as an **IAM user** with administrator access to the AWS account:
 
 ### Provision Jira Instance 
 
-You can follow the AWS Quickstart Guide:
-[Deploy Jira Using Quickstart](https://aws.amazon.com/quickstart/architecture/jira/)
+[Click here to deploy using CloudFormation template](https://us-west-2.console.aws.amazon.com/cloudformation/home?region=us-west-2#/stacks/new?stackName=ModernizationWorkshop&templateURL=https://modernization-workshop-bucket.s3-us-west-2.amazonaws.com/cfn/master-stacks/jira-QS-based.yaml)
+
+* Create stack click, Next
+* Specify stack details, click Next
+* Configure stack options, click Next
+* Review UnicornDevSecOpsWorkshop, scroll to bottom section under Capabilities and check both boxes and click Create stack
+
+> The deployment process takes approximately 30-45 minutes to complete. Check [AWS CloudFormation](https://us-west-2.console.aws.amazon.com/cloudformation/home?region=us-west-2#/stacks?filteringText=&filteringStatus=active&viewNested=true&hideStacks=false) and continue with the workshop once status is "UPDATE_COMPLETE" for the Modernization Workshop stack.
 
 {{% notice info %}}
 After you have a running Jira instance in you account, Please continue to the next section.

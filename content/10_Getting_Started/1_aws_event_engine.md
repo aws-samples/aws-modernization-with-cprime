@@ -83,3 +83,7 @@ In the "Set up email notifications" page, choose **Later**, and then choose **Fi
 In the first "Welcome to Jira" page, choose a language and then choose **Continue**.  
 In the second "Welcome to Jira" page, choose an avatar for your profile, if you wish,
 and then choose **Next**.
+
+{{% notice tip %}}
+When you are ready to get started click [<i class="fas fa-arrow-circle-right"></i> HERE!](/30_creating_backlog.html)
+{{% /notice %}}

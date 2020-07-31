@@ -1,7 +1,7 @@
 ---
 title: "Conclusion"
 chapter: true
-weight: 99
+weight: 91
 ---
 
 # Conclusion
@@ -57,3 +57,7 @@ Read more on what Jira has to offer: https://www.atlassian.com/partnerships/aws
 If you are interested in Agile development:  https://www.cprime.com/
 
 Explore the Atlassian marketplace for Jira add-ons:  https://marketplace.atlassian.com/addons/app/jira
+
+{{% notice note %}}
+If you have completed this workshop in your own account, please continue to the next section for cleanup instructions
+{{% /notice %}}
