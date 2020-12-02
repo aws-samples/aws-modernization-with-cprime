@@ -20,7 +20,7 @@ If you already have an AWS account, and have IAM Administrator access, go to
 ### Create an account
 
 1. If you don't already have an AWS account with Administrator access: [create
-one now](http://docs.aws.amazon.com/connect/latest/adminguide/gettingstarted.html#sign-up-for-aws)
+one now](https://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/getting-started.html)
 
 2. Once you have an AWS account, ensure you are following the remaining workshop steps
 as an **IAM user** with administrator access to the AWS account:
